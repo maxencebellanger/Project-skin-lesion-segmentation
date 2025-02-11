@@ -1,0 +1,14 @@
+name: Project_Skin_lesion_segmentation
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11.11
+  - scikit-image=0.25.0
+  - scikit-learn=1.6.0
+  - numpy=2.2.1
+  - h5py=3.12.1
+  - matplotlib=3.10
+  - pytorch=2.5.1
+  - pandas=2.2.3
